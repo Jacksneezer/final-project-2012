@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>FinalProject</label>
+		<id>1218</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>FinalProject.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>FinalProject.jcp</path>
+		</project>
+	</projects>
+</workspace>
